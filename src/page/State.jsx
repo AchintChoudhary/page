@@ -14,7 +14,7 @@ const State = () => {
           </div>
             <div className="flex  items-center gap-4">
             <h3 className="text-4xl font-bold text-gray-900">2406</h3>
-            <p className="text-gray-600 text-sm mt-1">Satisfied Clients</p>
+            <p className="text-gray-600 text-sm mt-1">Countries Covered</p>
           </div>
         </div>
 
@@ -22,11 +22,11 @@ const State = () => {
         <div className="flex  sm:flex-row justify-center  gap-10">
            <div className="flex  items-center gap-4">
             <h3 className="text-4xl font-bold text-gray-900">120</h3>
-            <p className="text-gray-600 text-sm mt-1">Offices Worldwide</p>
+            <p className="text-gray-600 text-sm mt-1">Countries Covered</p>
           </div>
            <div className="flex  items-center gap-4">
             <h3 className="text-4xl font-bold text-gray-900">100%</h3>
-            <p className="text-gray-600 text-sm mt-1">Professional Approach</p>
+            <p className="text-gray-600 text-sm mt-1">Countries Covered</p>
           </div>
         </div>
       </div>

@@ -12,11 +12,7 @@ const Innovation = () => {
       <span className="text-blue-700">Innovation.</span>
     </h2>
     <p className="mt-6 text-gray-600 text-base lg:text-lg leading-relaxed">
-      Crown Group is one of the leader’s groups in the global and
-      logistics services as it continues to expand its horizons, by
-      providing innovative solutions, supported by bold, resolute and
-      decisive action. We are aiming with confidence, to be the best
-      global shipping & logistics Provider.
+     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor error quae earum excepturi. Corporis, exercitationem iusto itaque sit quam quo facilis dignissimos repellendus eos explicabo ea ad totam accusantium quibusdam.
     </p>
     <p className="mt-8 font-semibold text-gray-900">
       ANWAR TAHER
@@ -35,8 +31,7 @@ const Innovation = () => {
       WHO WE ARE
     </h3>
     <p className="mt-3 text-sm lg:text-base text-gray-600">
-      Crown Group is one of the leader’s groups in the global and
-      logistics services as it continues to expand its horizons, by
+   Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem minima tempore sequi ipsa alias, ipsam soluta ut facilis veritatis odit perferendis, error fugiat cupiditate omnis? At facilis amet consectetur iure.
     </p>
     <div className="mt-4 flex justify-center md:justify-start">
       <button className="w-10 h-10 flex items-center justify-center rounded-full bg-blue-600 text-white text-lg">
@@ -55,8 +50,7 @@ const Innovation = () => {
       LOGISTICS REDEFINED
     </h3>
     <p className="mt-3 text-sm lg:text-base text-gray-600">
-      Crown Group is one of the leader’s groups in the global and
-      logistics services as it continues to expand its horizons, by
+     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo nihil aspernatur molestiae, est quia veniam cum autem sed illo doloribus neque dolor eos quisquam quis cumque ea illum excepturi accusantium.
     </p>
     <div className="mt-4 flex justify-center md:justify-start">
       <button className="w-10 h-10 flex items-center justify-center rounded-full bg-blue-600 text-white text-lg">

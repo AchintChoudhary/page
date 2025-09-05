@@ -22,8 +22,7 @@ const Excellence = () => {
             </div>
             <h3 className="font-bold text-lg mb-2 mt-4">LAND FREIGHT</h3>
             <p className="text-sm text-gray-300 leading-relaxed">
-              Provides land freight services to meet up with your transportation
-              needs, delivering cargo safe and secure to its destination.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis molestias voluptatem id labore facilis sint necessitatibus voluptatibus, vero placeat temporibus, sapiente, laboriosam rerum quas atque! Fugit hic atque explicabo vel.
             </p>
           </div>
 
@@ -34,8 +33,7 @@ const Excellence = () => {
             </div>
             <h3 className="font-bold text-lg mb-2 mt-4">SEA FREIGHT</h3>
             <p className="text-sm text-gray-300 leading-relaxed">
-              Provides sea freight services to meet up with your transportation
-              needs, delivering cargo safely across seas.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus alias maxime repudiandae consectetur rerum, necessitatibus magni? Obcaecati, voluptate modi. Sunt quidem ipsam corrupti natus ad repudiandae praesentium deserunt asperiores cumque?
             </p>
           </div>
         </div>
@@ -50,8 +48,7 @@ const Excellence = () => {
           </div>
           <h3 className="font-bold text-lg mb-2 mt-4">AIR FREIGHT</h3>
           <p className="text-sm text-gray-300 leading-relaxed">
-            Provides air freight services to meet up with your transportation
-            needs, delivering air cargo fast and secure.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed explicabo modi inventore ullam enim in ex aperiam quos rerum assumenda! Molestias itaque fuga porro quidem! Magni nobis veritatis alias sequi?
           </p>
         </div>
 
@@ -62,8 +59,7 @@ const Excellence = () => {
           </div>
           <h3 className="font-bold text-lg mb-2 mt-4">PROJECT CARGO</h3>
           <p className="text-sm text-gray-300 leading-relaxed">
-            Provides project cargo freight services for oversized shipments,
-            delivered securely to their final destination.
+           Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequatur soluta deserunt necessitatibus! Provident maiores sapiente esse soluta harum, similique, eveniet laudantium labore porro veritatis mollitia aut eligendi assumenda fuga nesciunt!
           </p>
         </div>
 
@@ -74,8 +70,7 @@ const Excellence = () => {
           </div>
           <h3 className="font-bold text-lg mb-2 mt-4">SHIPPING AGENCY</h3>
           <p className="text-sm text-gray-300 leading-relaxed">
-            Provides agency services to handle shipments efficiently with
-            professional care.
+           Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore molestiae excepturi, corporis nihil expedita ullam odit officia et, reiciendis beatae enim cumque aspernatur voluptatum qui atque provident, fugiat sapiente quo.
           </p>
         </div>
       </div>

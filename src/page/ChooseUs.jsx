@@ -59,16 +59,10 @@ const ChooseUs = () => {
 
   <div>
     <p className="text-gray-600 leading-relaxed mb-6">
-      Ocean Crown Shipping Services LLC is positioned in Dubai, the United
-      Arab Emirates which has specialized in international Freight
-      Forwarding business backed by professionals who have decades of
-      global experience in the shipping industry. Expertise in
-      international freight forwarding by sea, air, and land.
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis libero amet eligendi iure, dignissimos fuga quos in architecto asperiores, quae, corporis labore ipsam! Blanditiis animi corporis explicabo reprehenderit error esse.
     </p>
     <p className="text-gray-600 leading-relaxed">
-      Where the headquarter Crown Logistics is located in (Amman & Aqaba),
-      Jordan. And the other branches located respectively in (Basra),
-      Iraq, (Antwerp), Belgium.
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam corrupti quis modi dolorem? Omnis, ad vitae impedit possimus inventore magnam vel id beatae a distinctio quisquam ullam! Voluptatum, fugit accusamus!
     </p>
   </div>
 </div>
