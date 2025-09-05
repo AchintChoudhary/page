@@ -10,7 +10,7 @@ const App = () => {
     <Hero/>
     <ChooseUs/>
     <Innovation/>
-    <Excellence/>
+    <Excellence/>    
     <State/>
     </>
   )
